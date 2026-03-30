@@ -11,8 +11,8 @@
       "description": "High-performance backend development with tech stack decision matrix. Covers Java (Spring Boot 3 + Microservices), Rust (Axum/Actix-web/Tokio), Go (Gin, gRPC, stdlib). 40+ real-world scenario templates with architecture, resilience, caching, observability patterns.",
       "version": "1.0.0",
       "source": {
-        "type": "git",
-        "url": "https://github.com/GChenSi-2/high-perf-backend-skill"
+        "source": "url",
+        "url": "https://github.com/GChenSi-2/high-perf-backend-skill.git"
       },
       "category": "development",
       "tags": [
