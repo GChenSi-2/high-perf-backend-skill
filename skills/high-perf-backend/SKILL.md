@@ -1,5 +1,6 @@
 ---
 name: high-perf-backend
+user_invocable: true
 description: >
   High-performance backend development covering Java (Spring Boot 3, Microservices), Rust (Axum/Actix-web/Tokio),
   and Go (Gin, gRPC, stdlib). Use whenever the user builds, optimizes, or architects backend services or APIs in
