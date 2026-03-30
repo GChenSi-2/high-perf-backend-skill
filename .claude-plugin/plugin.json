@@ -1,0 +1,9 @@
+{
+  "name": "high-perf-backend",
+  "version": "1.0.0",
+  "description": "High-performance backend development skill covering Java (Spring Boot 3 + Microservices), Rust (Axum/Actix-web/Tokio), and Go (Gin, gRPC, stdlib). Includes a 40-scenario tech stack decision matrix for architecture recommendations.",
+  "author": "GChenSi-2",
+  "skills": [
+    "skills/high-perf-backend"
+  ]
+}

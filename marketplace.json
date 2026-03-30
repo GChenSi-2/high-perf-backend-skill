@@ -1,0 +1,28 @@
+{
+  "name": "GChenSi-2-backend-skills",
+  "description": "Production-grade backend development skills for Java, Rust, and Go",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "high-perf-backend",
+      "description": "High-performance backend development with tech stack decision matrix. Covers Java (Spring Boot 3 + Microservices), Rust (Axum/Actix-web/Tokio), Go (Gin, gRPC, stdlib). 40+ real-world scenario templates with architecture, resilience, caching, observability patterns.",
+      "version": "1.0.0",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/GChenSi-2/high-perf-backend-skill"
+      },
+      "category": "development",
+      "tags": [
+        "backend",
+        "java",
+        "rust",
+        "go",
+        "spring-boot",
+        "microservices",
+        "high-performance",
+        "architecture",
+        "tech-stack"
+      ]
+    }
+  ]
+}
