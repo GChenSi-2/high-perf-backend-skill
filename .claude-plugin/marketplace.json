@@ -2,6 +2,9 @@
   "name": "GChenSi-2-backend-skills",
   "description": "Production-grade backend development skills for Java, Rust, and Go",
   "version": "1.0.0",
+  "owner": {
+    "name": "Gui Chen"
+  },
   "plugins": [
     {
       "name": "high-perf-backend",
